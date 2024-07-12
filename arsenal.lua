@@ -554,7 +554,7 @@ CheatEngineDeleteMob.ResetOnSpawn = false
 -- Made By funceyyy
 DeleteMobF.Name = "DeleteMobF"
 DeleteMobF.Parent = CheatEngineDeleteMob
-DeleteMobF.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+DeleteMobF.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 DeleteMobF.BorderColor3 = Color3.fromRGB(255, 255, 255)
 DeleteMobF.Position = UDim2.new(0.144998878, 0, 0.328040659, 0)
 DeleteMobF.Size = UDim2.new(0, 1213, 0, 398)
@@ -571,8 +571,8 @@ TextBox.Position = UDim2.new(0.791149139, 0, 0.0127403988, 0)
 TextBox.Size = UDim2.new(0, 200, 0, 23)
 TextBox.ClearTextOnFocus = false
 TextBox.Font = Enum.Font.Roboto
-TextBox.PlaceholderText = "https://discord.gg/FsApQ7YNTq"
-TextBox.Text = "https://discord.gg/FsApQ7YNTq - Double Click Me"
+TextBox.PlaceholderText = "https://discord.gg/3aT9CUYd2V "
+TextBox.Text = "https://discord.gg/3aT9CUYd2V <- Double Click Me"
 TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextBox.TextSize = 14.000
 
@@ -585,7 +585,7 @@ Name.BorderSizePixel = 0
 Name.Position = UDim2.new(0.0178597774, 0, 0.00456260797, 0)
 Name.Size = UDim2.new(0, 200, 0, 31)
 Name.Font = Enum.Font.Gotham
-Name.Text = "DeleteMob | Cheat Engine"
+Name.Text = "medusatech - arsenal"
 Name.TextColor3 = Color3.fromRGB(17, 223, 255)
 Name.TextSize = 19.000
 
@@ -621,7 +621,7 @@ UIListLayout.Padding = UDim.new(0, 5)
 
 ABE.Name = "ABE"
 ABE.Parent = AimBotSection
-ABE.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+ABE.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 ABE.BorderColor3 = Color3.fromRGB(255, 255, 255)
 ABE.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 ABE.Size = UDim2.new(0, 164, 0, 29)
@@ -632,7 +632,7 @@ ABE.TextSize = 16.000
 
 ABWC.Name = "ABWC"
 ABWC.Parent = AimBotSection
-ABWC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+ABWC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 ABWC.BorderColor3 = Color3.fromRGB(255, 255, 255)
 ABWC.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 ABWC.Size = UDim2.new(0, 164, 0, 29)
@@ -643,7 +643,7 @@ ABWC.TextSize = 16.000
 
 ABTC.Name = "ABTC"
 ABTC.Parent = AimBotSection
-ABTC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+ABTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 ABTC.BorderColor3 = Color3.fromRGB(255, 255, 255)
 ABTC.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 ABTC.Size = UDim2.new(0, 164, 0, 29)
@@ -654,7 +654,7 @@ ABTC.TextSize = 16.000
 
 ABSF.Name = "ABSF"
 ABSF.Parent = AimBotSection
-ABSF.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+ABSF.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 ABSF.BorderColor3 = Color3.fromRGB(255, 255, 255)
 ABSF.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 ABSF.Size = UDim2.new(0, 164, 0, 29)
@@ -664,7 +664,7 @@ ABSF.TextColor3 = Color3.fromRGB(255, 255, 255)
 ABSF.TextSize = 16.000
 
 Frame.Parent = AimBotSection
-Frame.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BackgroundTransparency = 0.700
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 0
@@ -691,7 +691,7 @@ Fill1.Size = UDim2.new(0, 100, 0, 15)
 
 UICorner_2.Parent = Fill1
 
-UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.29, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.43, Color3.fromRGB(18, 218, 249)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(52, 52, 52))}
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.29, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.43, Color3.fromRGB(18, 218, 249)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))}
 UIGradient.Parent = Fill1
 -- Made By funceyyy
 TriggerFov.Name = "TriggerFov"
@@ -732,7 +732,7 @@ TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 14.000
 
 Frame_2.Parent = AimBotSection
-Frame_2.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame_2.BackgroundTransparency = 0.700
 Frame_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame_2.BorderSizePixel = 0
@@ -759,7 +759,7 @@ Fill2.Size = UDim2.new(0, 0, 0, 15)
 
 UICorner_4.Parent = Fill2
 
-UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.29, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.43, Color3.fromRGB(18, 218, 249)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(52, 52, 52))}-- Made By funceyyy
+UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.29, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.43, Color3.fromRGB(18, 218, 249)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))}-- Made By funceyyy
 UIGradient_2.Parent = Fill2
 
 TriggerSmoothing.Name = "TriggerSmoothing"
@@ -813,7 +813,7 @@ TextLabel_3.TextSize = 21.000
 
 Allways_Show.Name = "Allways_Show"
 Allways_Show.Parent = AimBotSection
-Allways_Show.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Allways_Show.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Allways_Show.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Allways_Show.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 Allways_Show.Size = UDim2.new(0, 164, 0, 29)
@@ -851,7 +851,7 @@ UIListLayout_2.Padding = UDim.new(0, 5)
 
 BBE.Name = "BBE"
 BBE.Parent = ESPSection
-BBE.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+BBE.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 BBE.BorderColor3 = Color3.fromRGB(255, 255, 255)
 BBE.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 BBE.Size = UDim2.new(0, 164, 0, 29)
@@ -862,7 +862,7 @@ BBE.TextSize = 16.000
 
 BBN.Name = "BBN"
 BBN.Parent = ESPSection
-BBN.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+BBN.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 BBN.BorderColor3 = Color3.fromRGB(255, 255, 255)
 BBN.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 BBN.Size = UDim2.new(0, 164, 0, 29)
@@ -873,7 +873,7 @@ BBN.TextSize = 16.000
 -- Made By funceyyy
 BBD.Name = "BBD"
 BBD.Parent = ESPSection
-BBD.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+BBD.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 BBD.BorderColor3 = Color3.fromRGB(255, 255, 255)
 BBD.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 BBD.Size = UDim2.new(0, 164, 0, 29)
@@ -884,7 +884,7 @@ BBD.TextSize = 16.000
 
 BBH.Name = "BBH"
 BBH.Parent = ESPSection
-BBH.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+BBH.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 BBH.BorderColor3 = Color3.fromRGB(255, 255, 255)
 BBH.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 BBH.Size = UDim2.new(0, 164, 0, 29)
@@ -895,7 +895,7 @@ BBH.TextSize = 16.000
 
 BTC.Name = "BBE"
 BTC.Parent = ESPSection
-BTC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+BTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 BTC.BorderColor3 = Color3.fromRGB(255, 255, 255)
 BTC.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 BTC.Size = UDim2.new(0, 164, 0, 29)
@@ -918,7 +918,7 @@ TextLabel_5.TextSize = 21.000
 -- Made By funceyyy
 BBHT.Name = "BBHT"
 BBHT.Parent = ESPSection
-BBHT.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+BBHT.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 BBHT.BorderColor3 = Color3.fromRGB(255, 255, 255)
 BBHT.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 BBHT.Size = UDim2.new(0, 164, 0, 29)
@@ -952,7 +952,7 @@ TextLabel_7.TextColor3 = Color3.fromRGB(17, 223, 255)
 TextLabel_7.TextSize = 21.000
 
 Frame_3.Parent = ESPSection
-Frame_3.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame_3.BorderSizePixel = 0
 Frame_3.Position = UDim2.new(0.0909090936, 0, 0.600000739, 0)
@@ -967,7 +967,7 @@ UIListLayout_3.Padding = UDim.new(0, 5)
 
 Box_R.Name = "Box_R"
 Box_R.Parent = Frame_3
-Box_R.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Box_R.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Box_R.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Box_R.Size = UDim2.new(0, 75, 0, 24)
 Box_R.ClearTextOnFocus = false
@@ -979,7 +979,7 @@ Box_R.TextSize = 14.000
 
 Box_G.Name = "Box_G"
 Box_G.Parent = Frame_3
-Box_G.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Box_G.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Box_G.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Box_G.Size = UDim2.new(0, 75, 0, 24)
 Box_G.ClearTextOnFocus = false
@@ -991,7 +991,7 @@ Box_G.TextSize = 14.000
 -- Made By funceyyy
 Box_B.Name = "Box_B"
 Box_B.Parent = Frame_3
-Box_B.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Box_B.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Box_B.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Box_B.Size = UDim2.new(0, 75, 0, 24)
 Box_B.ClearTextOnFocus = false
@@ -1030,7 +1030,7 @@ UIListLayout_4.Padding = UDim.new(0, 5)
 
 OE.Name = "OE"
 OE.Parent = ESPSection_2
-OE.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+OE.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 OE.BorderColor3 = Color3.fromRGB(255, 255, 255)
 OE.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 OE.Size = UDim2.new(0, 164, 0, 29)
@@ -1041,7 +1041,7 @@ OE.TextSize = 16.000
 
 OTC.Name = "OTC"
 OTC.Parent = ESPSection_2
-OTC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+OTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 OTC.BorderColor3 = Color3.fromRGB(255, 255, 255)
 OTC.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 OTC.Size = UDim2.new(0, 164, 0, 29)
@@ -1051,7 +1051,7 @@ OTC.TextColor3 = Color3.fromRGB(255, 255, 255)
 OTC.TextSize = 16.000
 
 Frame_4.Parent = ESPSection_2
-Frame_4.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame_4.BackgroundTransparency = 0.700
 Frame_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame_4.BorderSizePixel = 0
@@ -1078,7 +1078,7 @@ Fill3.Size = UDim2.new(0, 100, 0, 15)
 -- Made By funceyyy
 UICorner_6.Parent = Fill3
 
-UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.29, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.43, Color3.fromRGB(18, 218, 249)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(52, 52, 52))}
+UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.29, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.43, Color3.fromRGB(18, 218, 249)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))}
 UIGradient_3.Parent = Fill3
 
 TriggerOutTans.Name = "TriggerOutTans"
@@ -1119,7 +1119,7 @@ TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_9.TextSize = 14.000
 
 Frame_5.Parent = ESPSection_2
-Frame_5.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame_5.BackgroundTransparency = 0.700
 Frame_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame_5.BorderSizePixel = 0
@@ -1146,7 +1146,7 @@ Fill4.Size = UDim2.new(0, 100, 0, 15)
 -- Made By funceyyy
 UICorner_8.Parent = Fill4
 
-UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.29, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.43, Color3.fromRGB(18, 218, 249)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(52, 52, 52))}
+UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.29, Color3.fromRGB(17, 223, 255)), ColorSequenceKeypoint.new(0.43, Color3.fromRGB(18, 218, 249)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))}
 UIGradient_4.Parent = Fill4
 
 TriggerFill.Name = "TriggerFill"
@@ -1199,7 +1199,7 @@ TextLabel_11.TextColor3 = Color3.fromRGB(17, 223, 255)
 TextLabel_11.TextSize = 21.000
 
 Frame_6.Parent = ESPSection_2
-Frame_6.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame_6.BorderSizePixel = 0
 Frame_6.Position = UDim2.new(0.0909090936, 0, 0.600000739, 0)
@@ -1214,7 +1214,7 @@ UIListLayout_5.Padding = UDim.new(0, 5)
 
 Outlines_R.Name = "Outlines_R"
 Outlines_R.Parent = Frame_6
-Outlines_R.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Outlines_R.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Outlines_R.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Outlines_R.Size = UDim2.new(0, 75, 0, 24)
 Outlines_R.ClearTextOnFocus = false
@@ -1226,7 +1226,7 @@ Outlines_R.TextSize = 14.000
 
 Outlines_G.Name = "Outlines_G"
 Outlines_G.Parent = Frame_6
-Outlines_G.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Outlines_G.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Outlines_G.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Outlines_G.Size = UDim2.new(0, 75, 0, 24)
 Outlines_G.ClearTextOnFocus = false
@@ -1238,7 +1238,7 @@ Outlines_G.TextSize = 14.000
 
 Outlines_B.Name = "Outlines_B"
 Outlines_B.Parent = Frame_6
-Outlines_B.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Outlines_B.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Outlines_B.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Outlines_B.Size = UDim2.new(0, 75, 0, 24)
 Outlines_B.ClearTextOnFocus = false
@@ -1261,7 +1261,7 @@ TextLabel_12.TextColor3 = Color3.fromRGB(17, 223, 255)
 TextLabel_12.TextSize = 21.000
 
 Frame_7.Parent = ESPSection_2
-Frame_7.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame_7.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame_7.BorderSizePixel = 0
 Frame_7.Position = UDim2.new(0.0909090936, 0, 0.600000739, 0)
@@ -1276,7 +1276,7 @@ UIListLayout_6.Padding = UDim.new(0, 5)
 
 FillOutlines_R.Name = "FillOutlines_R"
 FillOutlines_R.Parent = Frame_7
-FillOutlines_R.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+FillOutlines_R.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 FillOutlines_R.BorderColor3 = Color3.fromRGB(255, 255, 255)
 FillOutlines_R.Size = UDim2.new(0, 75, 0, 24)
 FillOutlines_R.ClearTextOnFocus = false
@@ -1288,7 +1288,7 @@ FillOutlines_R.TextSize = 14.000
 
 FillOutlines_G.Name = "FillOutlines_G"
 FillOutlines_G.Parent = Frame_7
-FillOutlines_G.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+FillOutlines_G.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 FillOutlines_G.BorderColor3 = Color3.fromRGB(255, 255, 255)
 FillOutlines_G.Size = UDim2.new(0, 75, 0, 24)
 FillOutlines_G.ClearTextOnFocus = false
@@ -1300,7 +1300,7 @@ FillOutlines_G.TextSize = 14.000
 
 FillOutlines_B.Name = "FillOutlines_B"
 FillOutlines_B.Parent = Frame_7
-FillOutlines_B.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+FillOutlines_B.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 FillOutlines_B.BorderColor3 = Color3.fromRGB(255, 255, 255)
 FillOutlines_B.Size = UDim2.new(0, 75, 0, 24)
 FillOutlines_B.ClearTextOnFocus = false
@@ -1326,7 +1326,7 @@ UIListLayout_7.Padding = UDim.new(0, 5)
 
 TE.Name = "TE"
 TE.Parent = Tracerssection
-TE.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+TE.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 TE.BorderColor3 = Color3.fromRGB(255, 255, 255)
 TE.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 TE.Size = UDim2.new(0, 164, 0, 29)
@@ -1337,7 +1337,7 @@ TE.TextSize = 16.000
 
 TTC.Name = "TTC"
 TTC.Parent = Tracerssection
-TTC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+TTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 TTC.BorderColor3 = Color3.fromRGB(255, 255, 255)
 TTC.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 TTC.Size = UDim2.new(0, 164, 0, 29)
@@ -1348,7 +1348,7 @@ TTC.TextSize = 16.000
 
 TTCOlor.Name = "TTCOlor"
 TTCOlor.Parent = Tracerssection
-TTCOlor.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+TTCOlor.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 TTCOlor.BorderColor3 = Color3.fromRGB(255, 255, 255)
 TTCOlor.Position = UDim2.new(0.234439835, 0, 0.139479905, 0)
 TTCOlor.Size = UDim2.new(0, 164, 0, 29)
@@ -1358,7 +1358,7 @@ TTCOlor.TextColor3 = Color3.fromRGB(255, 255, 255)
 TTCOlor.TextSize = 16.000
 
 Frame_8.Parent = Tracerssection
-Frame_8.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame_8.BorderSizePixel = 0
 Frame_8.Position = UDim2.new(0.0909090936, 0, 0.600000739, 0)
@@ -1373,7 +1373,7 @@ UIListLayout_8.Padding = UDim.new(0, 5)
 
 Tracers_R.Name = "Tracers_R"
 Tracers_R.Parent = Frame_8
-Tracers_R.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Tracers_R.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Tracers_R.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Tracers_R.Size = UDim2.new(0, 75, 0, 24)
 Tracers_R.ClearTextOnFocus = false
@@ -1385,7 +1385,7 @@ Tracers_R.TextSize = 14.000
 
 Tracers_G.Name = "Tracers_G"
 Tracers_G.Parent = Frame_8
-Tracers_G.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Tracers_G.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Tracers_G.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Tracers_G.Size = UDim2.new(0, 75, 0, 24)
 Tracers_G.ClearTextOnFocus = false
@@ -1397,7 +1397,7 @@ Tracers_G.TextSize = 14.000
 
 Tracers_B.Name = "Tracers_B"
 Tracers_B.Parent = Frame_8
-Tracers_B.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Tracers_B.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Tracers_B.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Tracers_B.Size = UDim2.new(0, 75, 0, 24)
 Tracers_B.ClearTextOnFocus = false
@@ -1447,7 +1447,7 @@ TextLabel_14.TextSize = 18.000
 
 Open.Name = "Open"
 Open.Parent = CheatEngineDeleteMob
-Open.BackgroundColor3 = Color3.fromRGB(51, 51, 51)
+Open.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Open.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Open.Position = UDim2.new(0.5, 0, 0.0199999996, 0)
 Open.Size = UDim2.new(0, 150, 0, 50)
@@ -1456,7 +1456,7 @@ Open.Draggable = true
 Open.Active = true
 
 TextButton.Parent = Open
-TextButton.BackgroundColor3 = Color3.fromRGB(49, 49, 49)
+TextButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.BorderColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.Position = UDim2.new(0, 0, 0.319999933, 0)
 TextButton.Size = UDim2.new(0, 150, 0, 34)
@@ -1466,41 +1466,41 @@ TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextSize = 14.000
 -- Made By funceyyy
 ABE.MouseButton1Click:Connect(function()
-	if ABE.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if ABE.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		ABE.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.Aimbot.Enabled = true
 	else
-		ABE.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		ABE.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.Aimbot.Enabled = false	
 	end
 end)
 
 ABSF.MouseButton1Click:Connect(function()
-	if ABSF.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if ABSF.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		ABSF.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.Aimbot.ShowFov = true
 	else
-		ABSF.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		ABSF.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.Aimbot.ShowFov = false	
 	end
 end)
 
 ABTC.MouseButton1Click:Connect(function()
-	if ABTC.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if ABTC.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		ABTC.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.Aimbot.TeamCheck = true
 	else
-		ABTC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		ABTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.Aimbot.TeamCheck = false	
 	end
 end)
 
 ABWC.MouseButton1Click:Connect(function()
-	if ABWC.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if ABWC.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		ABWC.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.Aimbot.WallCheck = true
 	else
-		ABWC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		ABWC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.Aimbot.WallCheck = false	
 	end
 end)
@@ -1518,31 +1518,31 @@ end)
 -- Box ESP
 
 BBD.MouseButton1Click:Connect(function()
-	if BBD.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if BBD.BackgroundColor3 == Color3.fromRGB(0, 0, 00) then
 		BBD.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.Box.Distance = true
 	else
-		BBD.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		BBD.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.Box.Distance = false	
 	end
 end)
 
 BBE.MouseButton1Click:Connect(function()
-	if BBE.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if BBE.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		BBE.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.Box.Box = true
 	else
-		BBE.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		BBE.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.Box.Box = false	
 	end
 end)
 
 BBH.MouseButton1Click:Connect(function()
-	if BBH.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if BBH.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		BBH.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.Box.Health = true
 	else
-		BBH.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		BBH.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.Box.Health = false	
 	end
 end)
@@ -1561,42 +1561,42 @@ BBHT.MouseButton1Click:Connect(function()
 end)
 
 BBN.MouseButton1Click:Connect(function()
-	if BBN.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if BBN.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		BBN.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.Box.Name = true
 	else
-		BBN.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		BBN.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.Box.Name = false	
 	end
 end)
 
 BTC.MouseButton1Click:Connect(function()
-	if BTC.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if BTC.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		BTC.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.Box.TeamCheck = true
 	else
-		BTC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		BTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.Box.TeamCheck = false	
 	end
 end)
 -- Outlines
 
 OE.MouseButton1Click:Connect(function()
-	if OE.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if OE.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		OE.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.OutLines.Enabled = true
 	else
-		OE.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		OE.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.OutLines.Enabled = false	
 	end
 end)
 
 OTC.MouseButton1Click:Connect(function()
-	if OTC.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if OTC.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		OTC.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.OutLines.TeamCheck = true
 	else
-		OTC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		OTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.OutLines.TeamCheck = false	
 	end
 end)
@@ -1604,31 +1604,31 @@ end)
 -- Tracers
 
 TE.MouseButton1Click:Connect(function()
-	if TE.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if TE.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		TE.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.Tracers.Enabled = true
 	else
-		TE.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		TE.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.Tracers.Enabled = false	
 	end
 end)
 
 TTC.MouseButton1Click:Connect(function()
-	if TTC.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if TTC.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		TTC.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.Tracers.TeamCheck = true
 	else
-		TTC.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		TTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.Tracers.TeamCheck = false	
 	end
 end)
 
 TTCOlor.MouseButton1Click:Connect(function()
-	if TTCOlor.BackgroundColor3 == Color3.fromRGB(52, 52, 52) then
+	if TTCOlor.BackgroundColor3 == Color3.fromRGB(0, 0, 0) then
 		TTCOlor.BackgroundColor3 = Color3.fromRGB(2, 54, 8)
 		DeleteMob.ESP.Tracers.TeamColor = true
 	else
-		TTCOlor.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+		TTCOlor.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 		DeleteMob.ESP.Tracers.TeamColor = false	
 	end
 end)
